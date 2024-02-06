@@ -12,7 +12,7 @@ const HeroSection = () => {
                 Shradha
             </h1>
             <p className="text-sm text-white">
-            I'm a passionate graphic and UI/UX designer based Mumbai. With a love for all things design, I specialize in creating visually appealing and user-friendly solutions.
+            I&apos;m a passionate graphic and UI/UX designer based Mumbai. With a love for all things design, I specialize in creating visually appealing and user-friendly solutions.
             </p>
             <Button classList="bg-pink-500 text-white py-3 px-6 rounded-md mt-6" value="Get in touch"/>
         </div>
